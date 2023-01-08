@@ -26,6 +26,15 @@
     margin: 130px 230px;
   }
 
+  .section4 {
+    border: 1px solid black;
+    width: 1140px ;
+    height: 300px ;
+    margin: 130px 230px;
+    border-radius: 8px; 
+    background-image: url(images/watch.png);
+  }
+
   .footer {
     border: 1px solid black;
     width: 1600px ;
@@ -188,4 +197,37 @@
 
 .section3 h3 {
   margin-top: 20px;
+}
+
+.section4 img {
+  mix-blend-mode: normal;
+}
+
+.section4 h1 {
+  height: 94;
+  width: 460;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  left: 280px;
+  top: 3150px;
+  font-size: 40px;
+  font-weight: 700px;
+  line-height: 47px;
+
+}
+
+.btn2 {
+  position: absolute;
+    top: 3250px;
+    left: 280px;
+    height: 64px;
+    width: 160px;
+    font-family: work 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: bold;
+    font-weight: 700px;
+    font-size: 25px;
+    color: #005FAC ;
+    border-color: aqua;
+    border-radius: 7pt;
+    margin-top: 20px;
 }
