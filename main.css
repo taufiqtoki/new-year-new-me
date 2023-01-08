@@ -95,6 +95,12 @@
     line-height: 50px;
     left: 860px;
     top: 1100px;
+    color:#444343;
+    ;
+  }
+
+  .article1 h1 {
+    color: #151414;
   }
 
   .list{
@@ -104,4 +110,24 @@
     font-style: normal;
     margin-top: 20px;
     list-style-type: square;
+  }
+
+  .article2 {
+    position: absolute;
+    width: 500px;
+    height: 450px;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: bold;
+    font-weight: 500px;
+    font-size: 30px;
+    line-height: 50px;
+    left: 860px;
+    top: 1950px;
+    color:#444343;
+    ;
+  }
+
+  .article2 h1 {
+    color: #000b0f;
   }
