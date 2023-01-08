@@ -40,6 +40,8 @@
     width: 1600px ;
     height: 577px ;
     margin-top: 130px;
+    background: #151414;
+    color: white;
   }
 
   .div1 {
@@ -231,3 +233,86 @@
     border-radius: 7pt;
     margin-top: 20px;
 }
+
+.footer h1 {
+  height: 94;
+  width: 460;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  left: 250px;
+  top: 3670px;
+  font-size: 40px;
+  font-weight: 700px;
+  line-height: 47px;
+
+}
+
+.footer p {
+  height: 350px;
+  width: 460px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  left: 250px;
+  top: 3740px;
+  font-size: 30px;
+  font-weight: 400px;
+  line-height: 33px;
+
+}
+
+.sm-ico {
+  position: absolute;
+  left: 250px;
+  top: 4010px;
+}
+
+.ico {
+  margin-right: 30px;
+}
+
+.newsletter {
+  height: 250px;
+  width: 350px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  right: 650px;
+  top: 3700px;
+  font-size: 30px;
+  font-weight: 400px;
+  line-height: 33px;
+  text-align: left;
+}
+
+.input {
+  width: 325px;
+  height: 64px;
+  border: 2px solid white;
+  border-radius: 8px;
+  background-color: #151414;
+  margin: 10px;
+  text-align: left;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  right: 10px;
+  top: 60px;
+  font-size: 20px;
+  font-weight: 300px;
+  line-height: 25px;
+}
+
+.btn3 {
+  position: absolute;
+  left: 1px;
+  top: 160px;
+  height: 64px;
+    width: 160px;
+    font-family: work 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: bold;
+    font-weight: 700px;
+    font-size: 25px;
+    color: #fafbfc ;
+    background-color: #005FAC;
+    border: 0px;
+    border-radius: 7px;
+}
+
