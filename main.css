@@ -1,5 +1,6 @@
   * {
     margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   .header {
     background-image: url(images/banner/banner3.png);
@@ -131,3 +132,60 @@
   .article2 h1 {
     color: #000b0f;
   }
+
+  .goals {
+    position: absolute;
+    border: 1px solid black;
+    top: 2700px;
+    width: 285px ;
+    height: 255px ;
+    text-align: center;
+    margin: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+  }
+.goal1 {
+  position: absolute;
+  left:220px;
+}
+.goal2 {
+    position: absolute;
+    left: 510px;
+}
+.goal3 {
+  position: absolute;
+  left: 795px;
+}
+.goal4 {
+  position: absolute;
+    left:1080px;
+}
+
+.section3 h1 {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 35px;
+  letter-spacing: 0em;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 5PX;
+
+}
+
+.section3 img {
+  margin-top: 16px;
+  height: 100px ;
+  width: 100px;
+}
+
+.section3 p {
+  margin-top: 16px;
+  color: gray;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.section3 h3 {
+  margin-top: 20px;
+}
