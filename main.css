@@ -15,6 +15,7 @@
     width: 1140px;
     height: 723px;
     margin: 130px 230px;
+    align-items: center;
   }
   
   .section3 {
@@ -72,4 +73,35 @@
     border-color: aqua;
     border-radius: 7pt;
     margin-top: 20px;
+  }
+
+  .div_in_main {
+    position: absolute;
+    height: 723;
+    width: 559;
+    left: 206px;
+    top: 939px;
+  }
+
+  .article1 {
+    position: absolute;
+    width: 500px;
+    height: 450px;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: bold;
+    font-weight: 500px;
+    font-size: 30px;
+    line-height: 50px;
+    left: 860px;
+    top: 1100px;
+  }
+
+  .list{
+    font-weight: 600;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    margin-top: 20px;
+    list-style-type: square;
   }
